@@ -1,0 +1,23 @@
+{
+  "name": "Syncfusion-jQuery-Succinctly",
+  "version": "1.0.0",
+  "description": "This is the companion repo for [*jQuery Succinctly*](https://www.syncfusion.com/ebooks/jquery) by Cody Lindley. Published by Syncfusion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagnerhsu/Syncfusion-jQuery-Succinctly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagnerhsu/Syncfusion-jQuery-Succinctly/issues"
+  },
+  "homepage": "https://github.com/wagnerhsu/Syncfusion-jQuery-Succinctly#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
