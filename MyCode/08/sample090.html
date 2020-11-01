@@ -3,7 +3,7 @@
 <body>
     <a href="#" title="Hi">dialog, say Hi</a> <a href="#" title="Bye">dialog, say
     Bye</a>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="node_modules/jquery/dist/jquery.js"></script>
     <script>   (function ($) {
        $.fn.dialog = function (options) { var text = this.attr('title') || this.text(); alert(text); };
    })(jQuery);
